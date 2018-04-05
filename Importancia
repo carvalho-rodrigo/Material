@@ -1,0 +1,65 @@
+---
+title: "Importância"
+author: "rodrigo"
+date: "2018/04/01"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Por quê Estatística?
+
+Em um mundo no qual somos bombardeados com informações diariamente, ser capaz de
+analisar de forma crítica essas informações é cada vez mais importante.  
+E a Estatística é sua melhor ferramenta!!
+
+<br>
+
+.center[![](https://media1.giphy.com/media/9ADoZQgs0tyww/giphy.gif)]
+
+
+---
+layout:true
+
+#Breve história da estatística 
+
+---
+
+As primeiras aplicações da estatística foram voltadas para necessidades do Estado,
+como meio de fornecer dados demográficos e econômicos à administração pública. 
+
+<br>
+
+.center[![](http://www.imagensanimadas.com/data/media/37/egito-imagem-animada-0044.gif)]
+
+---
+
+No século XVII, a teoria das probabilidades começou a ser desenvolvida por 
+Pascal e Fermat por meio do estudo de jogos de azar. 
+E nos tempos atuais, essa teoria, juntamente com o avanço da computação,
+fizeram da estatística essencial para o avanço da ciência e do conhecimento. 
+
+<br>
+
+.center[![](https://media2.giphy.com/media/C6UJztzPQqzBK/giphy.gif)]
+
+---
+layout:false
+
+
+# A Estatística se divide em dois ramos	
+
+
+
+.pull-left[A *Estatística Descritiva*, que visa organizar, resumir e apresentar os dados;] 
+
+.pull-right[A *Estatística Inferencial*, que se preocupa com os procedimentos necessários para utilizar as informações de uma amostra para concluir sobre uma população maior;]
+
+---
+layout:false
